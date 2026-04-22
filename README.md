@@ -152,9 +152,7 @@ QueueLess is built with that principle at its core.
 
 ---
 
-## 📄 License
 
-MIT License
 
 ---
 
